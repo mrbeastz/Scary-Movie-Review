@@ -1,0 +1,63 @@
+h1{
+  color:orange;
+  background-color:black;
+  text-align:center;
+}
+body{
+    background-color:black;
+    text-align:center;
+}
+
+img{
+    width:350px;
+}
+
+h2{
+  color:orange;
+  text-align:center;
+}
+h1{
+  border:ridge;
+  border-color:purple;
+  border-width:10px;
+   border-width:20px;
+   
+}
+
+img{
+    border:ridge;
+    border-color:orange;
+    border-width:25px;
+}
+
+img:hover{
+    background-color:red;
+}
+
+
+
+
+
+h2{
+    border:ridge;
+    border-width:15px;
+    border-color:purple;
+}
+
+h1:hover{
+  color:red; 
+  border:green;
+  
+}
+ul{
+color:orange;    
+}
+
+h3{
+ color:orange;   
+ border:ridge;
+ border-width:10px;
+ border-color:purple;
+}
+
+body{font-family: 'Fascinate Inline', cursive;}
